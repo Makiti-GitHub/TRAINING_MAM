@@ -12,3 +12,7 @@ visibility into the performance and health of the microservices.
 During the follow-up meeting, walk through your microservices architecture,
 demonstrate how the monitoring and logging system works, and discuss any
 optimizations you made to improve the application's performance and reliability.
+
+
+
+
